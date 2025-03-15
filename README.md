@@ -8,8 +8,6 @@
 
 
 ### 📫 Contact Me
-<div align="center">
-  
 [![Gmail Badge](https://img.shields.io/badge/Email-qmdlghfl3%40naver.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:qmdlghfl3@naver.com)  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-tlawogus__-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/tlawogus_)  
 
