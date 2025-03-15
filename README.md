@@ -13,7 +13,8 @@
 ###
 [![Gmail Badge](https://img.shields.io/badge/Email-qmdlghfl3%40naver.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:qmdlghfl3@naver.com)  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-tlawogus__-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/tlawogus_)  
-[![Dacon Badge](https://img.shields.io/badge/Dacon-qmdlghfl2@gmail.com-blue?style=flat-square&logo=Dacon&logoColor=white)](https://dacon.io/myprofile/516434/competition)
+[![Dacon Badge](https://img.shields.io/badge/Dacon-qmdlghfl2@gmail.com-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVRYR+2XTU7DMBAGZ4FgEsExS0CslKxBpA4koygAWRA7AHT1ClUVrlbrxhuE94W5M+c/DP/zs3+AZEtlOeG2yHL6wB6tngmd3DGAqydUtGQhl6oMKxnB1y2gGLLAHLawD80DLhBLCojYvsX6lmAVpJKRHx+AmuFqAVg2TZRuAYuKjoBbAJknMk6ydkLtiM5BUAdGKM5FmIWpCZMpmmHYDqCEyWKwEmj0gX26EnbMPSKaQwBICGVOUKMWh6AcJ3oPIjNDLsDrgQqAuQhxWUswyy1OAm5soYzwLkjzm8Lg7yPmBlj3exCf2eFhV03CB2a5E9YzrIW+kh2CJWiKYyk+RJfAzZMWQiVC78BR3oBUB9wzyqDVXJ98Ol6QPr6ncLpPCcmRbmN/F+tdRKPpe0t7QX+AQ1TqOj9wIupAAAAAElFTkSuQmCC)](https://dacon.io/myprofile/516434/competition)
+
 
 
 
