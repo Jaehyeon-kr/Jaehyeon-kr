@@ -14,7 +14,7 @@
 #### ✏️ Projects
 | 대회명 | 주최 | Task | Rank | 역할 | 기타 | 
 |--------|------|------|------|------|------|
-| **2024 제4회 K-water AI 경진대회 : 상수도 관망 이상 감지 AI 알고리즘 개발** | Dacon / K-water | Binary Classification | 🏆 **107/486 (상위 26%)** | 리더 |------|
+| **상수도 관망 이상 감지 AI 알고리즘 개발** | Dacon / K-water | Binary Classification | 🏆 **107/486 (상위 26%)** | 리더 |------|
 | **전기차 가격 예측** | Dacon  | Binary Classification | 🏆 **-19/849(상위 2%)** | 개인 |------|
 | **악성 URL 분류** | Dacon  | Binary Classification | 🏆 **-/--(상위 -%)** | 리더 |------|
 | **채무 불이행 여부 예측** | Dacon |  Binary Classification | 🏆 **--/--(상위 -%)** | 리더 |------|
