@@ -9,11 +9,11 @@
 
 
 ### ✏️
-| 대회명 | 주최 | Task | Rank | 역할 | 기타 |
-|--------|------|------|------|------|------|
-| **전기차 가격 예측** | Dacon  | Binary Classification | 🏆 **-19/849(상위 2%)** | 개인 | - |
-| **악성 URL 분류** | Dacon  | Binary Classification | 🏆 **-/--(상위 -%)** | 리더 | - |
-| **채무 불이행 여부 예측** | Seouletech / AI-Coss |  Binary Classification | 🏆 **--/--** | 리더 | - |
+| 대회명 | 주최 | Task | Rank | 역할 |
+|--------|------|------|------|------|
+| **전기차 가격 예측** | Dacon  | Binary Classification | 🏆 **-19/849(상위 2%)** | 개인 |
+| **악성 URL 분류** | Dacon  | Binary Classification | 🏆 **-/--(상위 -%)** | 리더 |
+| **채무 불이행 여부 예측** | Seouletech / AI-Coss |  Binary Classification | 🏆 **--/--** | 리더 
 
 
 
