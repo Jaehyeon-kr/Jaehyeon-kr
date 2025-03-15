@@ -25,5 +25,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+##
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="재현-심-536775210" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/%EC%9E%AC%ED%98%84-%EC%8B%AC-536775210?trk=profile-badge">심재현</a></div>
+              
 ---
 
