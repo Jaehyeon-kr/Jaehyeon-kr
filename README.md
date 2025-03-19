@@ -14,9 +14,9 @@
 |-----------------|------------------|:-----------------|---------------|------|---------------|
 | 상수도 관망 이상 감지 AI 알고리즘 개발 | Dacon / K-water | Binary Classification | 🛠  **107 / 486** (상위 26%) | 리더 | ------- |
 | 전기차 가격 예측 | Dacon | Binary Classification | 🛠  **19 / 849** (상위 2%) | 개인 | ------- |
-| 악성 URL 분류 | Dacon | Binary Classification | 🛠 **25/ -** (상위 -%) | 리더 | 진행중 |
-| 채무 불이행 여부 예측 | Dacon | Binary Classification | 🛠 ** 42 / -** (상위 -%) | 리더 | 진행중 |
-| Rainfall Prediction | Kaggle | Binary Classification | 🛠 **1000/2000** (상위 50%) | 리더 | 진행중 |
+| 악성 URL 분류 | Dacon | Binary Classification | 🛠 **27/ -** (상위 -%) | 리더 | 진행중 |
+| 채무 불이행 여부 예측 | Dacon | Binary Classification | 🛠 ** 15 / 542 (상위 4%) | 리더 | 진행중 |
+| Rainfall Prediction | Kaggle | Binary Classification | 🛠 **1300/2800** (상위 50%) | 리더 | 진행중 |
 
 
 
