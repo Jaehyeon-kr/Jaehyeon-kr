@@ -4,7 +4,7 @@
 |--------|----------------|-----------------|---------------|------|---------------|
 | 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 | Dacon / LG AI Research | Binary Classification | 🏅 **3 / 794** (상위 1%) | 리더 | 본선 진출 |
 | SCI 음성인식 | Dacon | Espnet <br> _(한국인 영어 데이터 음성인식)_ | 🏅 **1 / 6** | 팀원 | **대상 (300만 원)** |
-
+| 채무 불이행 여부 예측 | Dacon | Binary Classification | 🏅 **2 / 703** | 개인 | **데이콘** |
 
 
 
@@ -15,7 +15,6 @@
 | 상수도 관망 이상 감지 AI 알고리즘 개발 | Dacon / K-water | Binary Classification | 🛠  **107 / 486** (상위 26%) | 리더 | ------- |
 | 전기차 가격 예측 | Dacon | Binary Classification | 🛠  **19 / 849** (상위 2%) | 개인 | ------- |
 | 악성 URL 분류 | Dacon | Binary Classification | 🛠 **27/ -** (상위 -%) | 리더 | 진행중 |
-| 채무 불이행 여부 예측 | Dacon | Binary Classification | 🛠 ** 15 / 542 (상위 4%) | 리더 | 진행중 |
 | Rainfall Prediction | Kaggle | Binary Classification | 🛠 **1300/2800** (상위 50%) | 리더 | 진행중 |
 
 
