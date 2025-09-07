@@ -2,7 +2,7 @@
 
 | 대회명 | 주최 | Task | Rank | 역할 | 기타 |
 |--------|----------------|-----------------|---------------|------|---------------|
-| 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 | Dacon / LG AI Research | Binary Classification | 🏅 **3/794**  | 리더 | 본선 진출 |
+| 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 | LG AI Research | Binary Classification | 🏅 **3/794**  | 리더 | 본선 진출 |
 | SCI 음성인식 | Dacon | STT 한국인 영어 데이터 | 🏅 **1 / 6** | 팀원 | **대상** |
 | 채무 불이행 여부 예측 | Dacon | Binary Classification | 🏅 **1/703** | 개인 | 수상 |
 | 신용카드 고객 세그먼트 분류 AI 경진대회 | Dacon | Segment | 🏅 **1/236**  | 팀원 | 수상 |
