@@ -28,9 +28,11 @@
 
 
 #### Contact
-[![Gmail Badge](https://img.shields.io/badge/Email-qmdlghfl3%40naver.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:qmdlghfl3@naver.com)  
-[![Dacon Badge](https://img.shields.io/badge/Dacon-qmdlghfl2@gmail.com-blue?style=flat-square&logo=Dacon=white)](https://dacon.io/myprofile/516434/competition)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jaehyeonKR/)
+- [![Gmail Badge](https://img.shields.io/badge/Email-qmdlghfl3%40naver.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:qmdlghfl3@naver.com)  
+
+- [![Dacon Badge](https://img.shields.io/badge/Dacon-qmdlghfl2@gmail.com-blue?style=flat-square&logo=Dacon=white)](https://dacon.io/myprofile/516434/competition)
+
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jaehyeonKR/)
 
 
 
