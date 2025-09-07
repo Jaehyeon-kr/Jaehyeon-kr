@@ -5,6 +5,8 @@
 | 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 | Dacon / LG AI Research | Binary Classification | 🏅 **3 / 794** (상위 1%) | 리더 | 본선 진출 |
 | SCI 음성인식 | Dacon | Espnet <br> _(한국인 영어 데이터 음성인식)_ | 🏅 **1 / 6** | 팀원 | **대상 (300만 원)** |
 | 채무 불이행 여부 예측 | Dacon | Binary Classification | 🏅 **2 / 703** | 개인 | **데이콘** |
+| 신용카드 고객 세그먼트 분류 AI 경진대회 | Dacon | Segment | 🏅 **1/236** (상위 12%) | 팀원 | 수상 |
+| 2025 날씨 빅데이터 콘테스트 | 기상청 | Time Series Regression | 🏅 **3/???** | 팀원 | 장려상 |
 
 
 
@@ -15,7 +17,9 @@
 | 상수도 관망 이상 감지 AI 알고리즘 개발 | Dacon / K-water | Binary Classification | 🛠  **107 / 486** (상위 26%) | 리더 | ------- |
 | 전기차 가격 예측 | Dacon | Binary Classification | 🛠  **19 / 849** (상위 2%) | 개인 | ------- |
 | 악성 URL 분류 | Dacon | Binary Classification | 🛠 **24/195 -** (상위 12%) | 개인 |------- |
-
+| Bias-A-Thon : Bias 대응 챌린지 <Track2> | 성균관대 지능형멀티미디어연구센터, 성균관대 딥페이크연구센터 | LLM, QA | 🛠 **19/109 -** (상위 17%) | 개인 |------- |
+| HAI! Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 | 헥토 | Computer Vision | 🛠 **47/748 -** (상위 6%) | 팀원 |------- |
+| 2025 Samsung Collegiate Programming Challenge : AI | Samsung | VLM, VQA | 🛠 **19/1445 -** (상위 1%) | 개인 |------- |
 
 
 
