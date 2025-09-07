@@ -18,7 +18,7 @@
 | 전기차 가격 예측 | Dacon | B-CLS |  19 / 849 (상위 2%) | 개인 | ------- |
 | 악성 URL 분류 | Dacon | B-CLS | 24/195 (상위 12%) | 개인 |------- |
 | Bias-A-Thon : Bias 대응 챌린지 <Track2> | 성균관대 지능형멀티미디어연구센터, 성균관대 딥페이크연구센터 | LLM, QA | 19/109 (상위 17%) | 개인 |------- |
-| HAI! Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 | 헥토 | Computer Vision | 47/748 (상위 6%) | 팀원 |------- |
+| HAI! Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 | 헥토 | CV | 47/748 (상위 6%) | 팀원 |------- |
 | 2025 Samsung Collegiate Programming Challenge : AI | Samsung | VLM, VQA | 19/1445 (상위 1%) | 개인 |------- |
 
 
