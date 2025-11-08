@@ -45,11 +45,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJaehyeon-kr%2FJaehyeon-kr%2Fedit%2Fmain%2FREADME.md?color=green&label=hits&size=medium&base_count=109)](https://myhits.vercel.app)
-
-
 <p align="center">
   <a href="https://solved.ac/jh06285/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jh06285" alt="Solved.ac Profile"/>
+  </a>
+  <br>
+  <a href="https://myhits.vercel.app">
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJaehyeon-kr%2FJaehyeon-kr%2Fedit%2Fmain%2FREADME.md?color=green&label=hits&size=medium&base_count=109" alt="hits"/>
   </a>
 </p>
