@@ -45,8 +45,5 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-              
----
-## HITS 
-- [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJaehyeon-kr%2FJaehyeon-kr%2Fedit%2Fmain%2FREADME.md?color=green&label=hits&size=small&base_count=1)](https://myhits.vercel.app)
 
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJaehyeon-kr%2FJaehyeon-kr%2Fedit%2Fmain%2FREADME.md?color=green&label=hits&size=small&base_count=98)](https://myhits.vercel.app)
