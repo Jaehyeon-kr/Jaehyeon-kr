@@ -48,4 +48,8 @@
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJaehyeon-kr%2FJaehyeon-kr%2Fedit%2Fmain%2FREADME.md?color=green&label=hits&size=medium&base_count=109)](https://myhits.vercel.app)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh06285)](https://solved.ac/jh06285/)
+<p align="center">
+  <a href="https://solved.ac/jh06285/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jh06285" alt="Solved.ac Profile"/>
+  </a>
+</p>
