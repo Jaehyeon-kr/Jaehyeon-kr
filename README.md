@@ -2,6 +2,7 @@
 
 | Challenge | Hosted by | Task | Rank | Role | etc |
 |--------|----------------|-----------------|---------------|------|---------------|
+| 제 4회 ETRI 휴먼이해 인공지능 논문경진대회| ETRI | CLS | 🏅 4/370 | 팀원 | Paper Accept/ 장려상 |
 | 토스 NEXT ML CHALLENGE | TOSS | CTR Prediction | 🏅 12/709 | 팀원 | 서류합 |
 | 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 | LG AI Research | B-CLS | 🏅 3/794  | 리더 | 본선 진출 |
 | SCI 음성인식 | ST Univ | STT | 🏅 1/6 | 팀원 | 대상 |
