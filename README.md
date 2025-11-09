@@ -2,11 +2,12 @@
 
 | Challenge | Hosted by | Task | Rank | Role | etc |
 |--------|----------------|-----------------|---------------|------|---------------|
+| 토스 NEXT ML CHALLENGE | TOSS | CTR Prediction | 🏅 12/709 | 팀원 | 서류면제 |
 | 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 | LG AI Research | B-CLS | 🏅 3/794  | 리더 | 본선 진출 |
 | SCI 음성인식 | ST Univ | STT | 🏅 1/6 | 팀원 | 대상 |
 | 채무 불이행 여부 예측 | Dacon | B-CLS | 🏅 1/703 | 개인 | 수상 |
 | 신용카드 고객 세그먼트 분류 AI 경진대회 | Dacon | Segment | 🏅 1/236  | 팀원 | 수상 |
-| 2025 날씨 빅데이터 콘테스트 | 기상청 | Time Series Regression | 🏅 3/??? | 팀원 | 장려상 |
+| 2025 날씨 빅데이터 콘테스트 | 기상청 | Time Series Regression | 🏅 3/??? | 팀원 | 장려상 ||
 
 
 
