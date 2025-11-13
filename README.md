@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://solved.ac/jh06285/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jh06285" alt="Solved.ac Profile"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=" alt="Solved.ac Profile"/>
   </a>
   <br>
   <a href="https://myhits.vercel.app">
