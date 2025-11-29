@@ -2,6 +2,7 @@
 
 | Challenge | Hosted by | Task | Rank | Role | etc |
 |--------|----------------|-----------------|---------------|------|---------------|
+| DeepFake Detection Competition| 국립과학수사연구원, NIA | Computer Vision | 🏅 3/ 1077 | 팀원 | NIA 연궈원장상 |
 | 제 4회 ETRI 휴먼이해 인공지능 논문경진대회| ETRI | CLS | 🏅 4/370 | 팀원 | Paper Accept/ 장려상 |
 | 2025 토스 NEXT ML CHALLENGE | TOSS | CTR Prediction | 🏅 12/709 | 팀원 | 서류합 |
 | 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 | LG AI Research | B-CLS | 🏅 3/794  | 리더 | 본선 진출 |
