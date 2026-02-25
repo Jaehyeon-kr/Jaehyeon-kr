@@ -2,6 +2,8 @@
 
 | Challenge | Hosted by | Task | Rank | Role | etc |
 |--------|----------------|-----------------|---------------|------|---------------|
+| Aimers 8기 : 모델 경량화 온라인 해커톤 | LG AI Research | LLM Quantization | 6 / 628 | 리더 | 본선 진출|
+| Track2 아이디어 개발 부문 : K리그-서울시립대 공개 AI 경진대회 | 서울시립대 | MVP 개발 | 4 / 38 | 리더 | 동상|
 | 운수종사자 인지적 특성 데이터를 활용한 교통사고 위험 예측 AI 경진대회 | NIA | ML, B-CLS | 🏅 2/ 1596 | 팀원 | 한국교통안전공단 이사장상 |
 | DeepFake Detection Competition | 국과수, NIA | Computer Vision | 🏅 3/ 1077 | 팀원 | NIA 연구원장상 |
 | 제 4회 ETRI 휴먼이해 인공지능 논문경진대회| ETRI | CLS | 🏅 4/370 | 팀원 | Paper Accept/ 장려상 |
