@@ -4,15 +4,15 @@
 |--------|----------------|-----------------|---------------|------|---------------|
 | Aimers 8기 : 모델 경량화 온라인 해커톤 | LG AI Research | LLM Quantization | 6 / 628 | 리더 | 본선 진출|
 | Track2 아이디어 개발 부문 : K리그-서울시립대 공개 AI 경진대회 | 서울시립대 | MVP 개발 | 4 / 38 | 리더 | 동상|
-| 운수종사자 인지적 특성 데이터를 활용한 교통사고 위험 예측 AI 경진대회 | NIA | ML, B-CLS | 🏅 2/ 1596 | 팀원 | 한국교통안전공단 이사장상 |
-| DeepFake Detection Competition | 국과수, NIA | Computer Vision | 🏅 3/ 1077 | 팀원 | NIA 연구원장상 |
-| 제 4회 ETRI 휴먼이해 인공지능 논문경진대회| ETRI | CLS | 🏅 4/370 | 팀원 | Paper Accept/ 장려상 |
-| 2025 토스 NEXT ML CHALLENGE | TOSS | CTR Prediction | 🏅 12/709 | 팀원 | 서류합 |
-| 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 | LG AI Research | B-CLS | 🏅 3/794  | 리더 | 본선 진출 |
-| SCI 음성인식 | ST Univ | STT | 🏅 1/6 | 팀원 | 대상 |
-| 채무 불이행 여부 예측 | Dacon | B-CLS | 🏅 1/703 | 개인 | 수상 |
-| 신용카드 고객 세그먼트 분류 AI 경진대회 | Dacon | Segment | 🏅 1/236  | 팀원 | 수상 |
-| 2025 날씨 빅데이터 콘테스트 | 기상청 | Time Series Regression | 🏅 3/??? | 팀원 | 장려상 ||
+| 운수종사자 인지적 특성 데이터를 활용한 교통사고 위험 예측 AI 경진대회 | NIA | ML, B-CLS |  2/ 1596 | 팀원 | 한국교통안전공단 이사장상 |
+| DeepFake Detection Competition | 국과수, NIA | Computer Vision |  3/ 1077 | 팀원 | NIA 연구원장상 |
+| 제 4회 ETRI 휴먼이해 인공지능 논문경진대회| ETRI | CLS |  4/370 | 팀원 | Paper Accept/ 장려상 |
+| 2025 토스 NEXT ML CHALLENGE | TOSS | CTR Prediction |  12/709 | 팀원 | 서류합 |
+| 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 | LG AI Research | B-CLS |  3/794  | 리더 | 본선 진출 |
+| SCI 음성인식 | ST Univ | STT |  1/6 | 팀원 | 대상 |
+| 채무 불이행 여부 예측 | Dacon | B-CLS |  1/703 | 개인 | 수상 |
+| 신용카드 고객 세그먼트 분류 AI 경진대회 | Dacon | Segment |  1/236  | 팀원 | 수상 |
+| 2025 날씨 빅데이터 콘테스트 | 기상청 | Time Series Regression |  3/??? | 팀원 | 장려상 ||
 
 
 #### Contact
