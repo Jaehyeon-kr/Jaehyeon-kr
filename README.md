@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://solved.ac/jh06285/">
-    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jh06285"/>
+    <img src="https://mazandi.herokuapp.com/api?handle=jh06285&theme=dark"/>
   </a>
   <br>
   <a href="https://myhits.vercel.app">
