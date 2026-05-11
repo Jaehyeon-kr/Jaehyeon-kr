@@ -29,17 +29,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-<p align="center">
-  <a href="https://solved.ac/jh06285/">
-    <img src="https://mazandi.herokuapp.com/api?handle=jh06285&theme=dark"/>
-  </a>
-  <br>
-  <a href="https://myhits.vercel.app">
-    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FJaehyeon-kr%2FJaehyeon-kr%2Fedit%2Fmain%2FREADME.md?color=green&label=hits&size=medium&base_count=109" alt="hits"/>
-  </a>
-</p>
-
-
 
 ## Projects
 
