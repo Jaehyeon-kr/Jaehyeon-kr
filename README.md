@@ -2,7 +2,7 @@
 ## Hi, I'm Jaehyeon Shim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
 
-#### 🏆 Paper Awards
+#### ⭐ Paper Awards
 
 <details>
 <summary>펼쳐보기 (2건)</summary>
@@ -14,7 +14,7 @@
 
 </details>
 
-#### 🏆 Competition Awards
+#### ⭐ Competition Awards
 
 <details>
 <summary>펼쳐보기 (11건)</summary>
