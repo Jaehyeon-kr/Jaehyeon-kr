@@ -2,11 +2,10 @@
 
 #### Paper Awards
 
-| 학회 | 분야 | 저자 | etc | 
-|------|------|------|------|-----|
+| 학회 | 분야 | 저자 | etc |
+|------|------|------|-----|
 | KCC 2026 | UMM(Multi-Modal) | 김연수, 심재현, 반재민, 황상흠\* | 우수논문상 |
-| KCC 2026 | LLM Quantization | 심재현, 이덕용, 황상흠\* | 우수논문상(학부생)| 
-
+| KCC 2026 | LLM Quantization | 심재현, 이덕용, 황상흠\* | 우수논문상(학부생) |
 
 #### Competition Awards
 | Challenge | Hosted by | Task | Rank | Role | etc |
