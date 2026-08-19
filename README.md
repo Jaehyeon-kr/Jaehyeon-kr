@@ -1,48 +1,48 @@
 #### Paper Awards
 
+<details>
+<summary>펼쳐보기 (2건)</summary>
+
 | 학회 | 분야 | 저자 | etc |
 |------|------|------|-----|
 | KCC 2026 | UMM(Multi-Modal) | 김연수, 심재현, 반재민, 황상흠\* | 우수논문상 |
 | KCC 2026 | LLM Quantization | 심재현, 이덕용, 황상흠\* | 우수논문상(학부생) |
 
+</details>
+
 #### Competition Awards
+
+<details>
+<summary>펼쳐보기 (11건)</summary>
+
 | Challenge | Hosted by | Task | Rank | Role | etc |
-|--------|----------------|-----------------|---------------|------|---------------|
-| Aimers 8기 : 모델 경량화 온라인 해커톤 | LG AI Research | LLM Quantization | 6 / 628 | 리더 | 본선 진출|
-| Track2 아이디어 개발 부문 : K리그-서울시립대 공개 AI 경진대회 | 서울시립대 | MVP 개발 | 4 / 38 | 리더 | 동상|
-| 운수종사자 인지적 특성 데이터를 활용한 교통사고 위험 예측 AI 경진대회 | NIA | ML, B-CLS |  2/ 1596 | 팀원 | 한국교통안전공단 이사장상 |
-| DeepFake Detection Competition | 국과수, NIA | Computer Vision |  3/ 1077 | 팀원 | NIA 연구원장상 |
-| 제 4회 ETRI 휴먼이해 인공지능 논문경진대회| ETRI | CLS |  4/370 | 팀원 | Paper Accept/ 장려상 |
-| 2025 토스 NEXT ML CHALLENGE | TOSS | CTR Prediction |  12/709 | 팀원 | 서류합 |
-| 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 | LG AI Research | B-CLS |  3/794  | 리더 | 본선 진출 |
-| SCI 음성인식 | ST Univ | STT |  1/6 | 팀원 | 대상 |
-| 채무 불이행 여부 예측 | Dacon | B-CLS |  1/703 | 개인 | 수상 |
-| 신용카드 고객 세그먼트 분류 AI 경진대회 | Dacon | Segment |  1/236  | 팀원 | 수상 |
-| 2025 날씨 빅데이터 콘테스트 | 기상청 | Time Series Regression |  3/??? | 팀원 | 장려상 ||
+|------|------|------|------|------|------|
+| Aimers 8기 : 모델 경량화 온라인 해커톤 | LG AI Research | LLM Quantization | 6 / 628 | 리더 | 본선 진출 |
+| Track2 아이디어 개발 부문 : K리그-서울시립대 공개 AI 경진대회 | 서울시립대 | MVP 개발 | 4 / 38 | 리더 | 동상 |
+| 운수종사자 인지적 특성 데이터를 활용한 교통사고 위험 예측 AI 경진대회 | NIA | ML, B-CLS | 2 / 1596 | 팀원 | 한국교통안전공단 이사장상 |
+| DeepFake Detection Competition | 국과수, NIA | Computer Vision | 3 / 1077 | 팀원 | NIA 연구원장상 |
+| 제4회 ETRI 휴먼이해 인공지능 논문경진대회 | ETRI | CLS | 4 / 370 | 팀원 | Paper Accept / 장려상 |
+| 2025 토스 NEXT ML CHALLENGE | TOSS | CTR Prediction | 12 / 709 | 팀원 | 서류합 |
+| 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 | LG AI Research | B-CLS | 3 / 794 | 리더 | 본선 진출 |
+| SCI 음성인식 | ST Univ | STT | 1 / 6 | 팀원 | 대상 |
+| 채무 불이행 여부 예측 | Dacon | B-CLS | 1 / 703 | 개인 | 수상 |
+| 신용카드 고객 세그먼트 분류 AI 경진대회 | Dacon | Segment | 1 / 236 | 팀원 | 수상 |
+| 2025 날씨 빅데이터 콘테스트 | 기상청 | Time Series Regression | 3 / ??? | 팀원 | 장려상 |
 
-
-#### Contact
-- [![Gmail Badge](https://img.shields.io/badge/Email-qmdlghfl3%40naver.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:qmdlghfl3@naver.com)  
-
-- [![Dacon Badge](https://img.shields.io/badge/Dacon-qmdlghfl2@gmail.com-blue?style=flat-square&logo=Dacon=white)](https://dacon.io/myprofile/516434/competition)
-
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jaehyeonKR/)
-
-
-##  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
+</details>
 
 ## Projects
 
+<details>
+<summary>펼쳐보기 (6건)</summary>
+
 | Projects | Hosted by | Task | Rank | Role | Etc |
-|-----------------|------------------|:-----------------|---------------|------|---------------|
-| 상수도 관망 이상 감지 AI 알고리즘 개발 | Dacon / K-water | B-CLS | 107 / 486 (상위 26%) | 리더 | ------- |
-| 전기차 가격 예측 | Dacon | B-CLS |  19 / 849 (상위 2%) | 개인 | ------- |
-| 악성 URL 분류 | Dacon | B-CLS | 24/195 (상위 12%) | 개인 |------- |
-| Bias-A-Thon : Bias 대응 챌린지 <Track2> | 성균관대 지능형멀티미디어연구센터, 성균관대 딥페이크연구센터 | LLM, QA | 19/109 (상위 17%) | 개인 |------- |
-| HAI! Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 | 헥토 | CV | 47/748 (상위 6%) | 팀원 |------- |
-| 2025 Samsung Collegiate Programming Challenge : AI | Samsung | VLM, VQA | 19/1445 (상위 1%) | 개인 |------- |
+|------|------|:-----|------|------|------|
+| 상수도 관망 이상 감지 AI 알고리즘 개발 | Dacon / K-water | B-CLS | 107 / 486 (상위 26%) | 리더 | — |
+| 전기차 가격 예측 | Dacon | B-CLS | 19 / 849 (상위 2%) | 개인 | — |
+| 악성 URL 분류 | Dacon | B-CLS | 24 / 195 (상위 12%) | 개인 | — |
+| Bias-A-Thon : Bias 대응 챌린지 &lt;Track2&gt; | 성균관대 지능형멀티미디어연구센터, 성균관대 딥페이크연구센터 | LLM, QA | 19 / 109 (상위 17%) | 개인 | — |
+| HAI! Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 | 헥토 | CV | 47 / 748 (상위 6%) | 팀원 | — |
+| 2025 Samsung Collegiate Programming Challenge : AI | Samsung | VLM, VQA | 19 / 1445 (상위 1%) | 개인 | — |
+
+</details>
