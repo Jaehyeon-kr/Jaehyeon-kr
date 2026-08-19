@@ -1,5 +1,3 @@
-<img width="468" height="78" alt="image" src="https://github.com/user-attachments/assets/005d3d57-1c65-4372-80f4-7484ffd545c3" />
-
 #### Paper Awards
 
 | 학회 | 분야 | 저자 | etc |
