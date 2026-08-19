@@ -1,5 +1,14 @@
-## Awards
+<img width="468" height="78" alt="image" src="https://github.com/user-attachments/assets/005d3d57-1c65-4372-80f4-7484ffd545c3" />## Awards
 
+#### Paper Awards
+
+| 학회 | 분야 | 저자 | etc | 
+|------|------|------|------|-----|
+| KCC 2026 | UMM(Multi-Modal) | 김연수, 심재현, 반재민, 황상흠\* | 우수논문상 |
+| KCC 2026 | LLM Quantization | 심재현, 이덕용, 황상흠\* | 우수논문상(학부생)| 
+
+
+#### Competition Awards
 | Challenge | Hosted by | Task | Rank | Role | etc |
 |--------|----------------|-----------------|---------------|------|---------------|
 | Aimers 8기 : 모델 경량화 온라인 해커톤 | LG AI Research | LLM Quantization | 6 / 628 | 리더 | 본선 진출|
